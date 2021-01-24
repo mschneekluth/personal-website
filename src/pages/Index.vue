@@ -24,7 +24,7 @@
       <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
         <div class="flex-1 text-lg sm:text-xl">
           <p class="text-lg sm:text-xl">
-            My Name is Marco I am a developer, content creator and consultant
+            I am a developer, content creator and consultant
             based in Hamburg, Germany. On this site you can find some projects I
             am involved in. If you want to get in touch with me just check out
             my
