@@ -36,9 +36,9 @@
             <a href="mailto:mail@marcoschneekluth.de">email</a>.
           </p>
         </div>
-        <div>
+        <div class="px-4">
           <g-image
-            src="../../static/about.jpg"
+            src="../../static/marco.jpg"
             alt="avatar"
             class="w-32 h-32 rounded-full mb-8 lg:mb-0"
           />
@@ -112,8 +112,8 @@
     </div>
     <!-- end get-to-know me -->
 
-    <div class="get-to-know-me container-inner mx-auto text-xl pb-16 relative">
-      <h2 class="font-bold mb-6" id="about">Technology</h2>
+    <div class="technology container-inner mx-auto text-xl pb-16 relative">
+      <h2 class="font-bold mb-6" id="technology">Technology</h2>
 
       <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
         <div class="flex-1 text-lg sm:text-xl ml-6">
