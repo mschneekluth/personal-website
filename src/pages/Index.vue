@@ -40,6 +40,7 @@
           <g-image
             src="../../static/marco.jpg"
             alt="avatar"
+            width="200"
             class="w-32 h-32 rounded-full mb-8 lg:mb-0"
           />
         </div>

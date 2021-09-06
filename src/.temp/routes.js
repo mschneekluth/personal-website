@@ -31,6 +31,10 @@ export default [
     component: c5
   },
   {
+    path: "/bachelorarbeit/",
+    component: c4
+  },
+  {
     name: "404",
     path: "/404/",
     component: c6
