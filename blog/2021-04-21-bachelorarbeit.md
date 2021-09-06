@@ -19,9 +19,11 @@ Zur Abschlussarbeit
 </button></a>
 
 Falls dir diese Ressource weitergeholfen hat, kannst du mir auch gerne eine Bitcoin-Spende zukommen lassen:
-- bc1qaem4dzth4scte470nfvrxxcudh3ycatdey55u6
+- **bc1qaem4dzth4scte470nfvrxxcudh3ycatdey55u6**
+
 oder
-- kryptokenner.crypto (nicht alle Wallets unterstützen Blockchain-Domains wie diese)
+
+- **kryptokenner.crypto** (nicht alle Wallets unterstützen Blockchain-Domains wie diese)
 
 Folge mir auch gerne auf [Twitter](https://twitter.com/mschneekluth) oder besuche meine Seite [kryptokenner](https://kryptokenner.de)!
 
