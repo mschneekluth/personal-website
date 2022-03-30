@@ -24,14 +24,22 @@
       <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
         <div class="flex-1 text-lg sm:text-xl">
           <p class="text-lg sm:text-xl">
-            I am a developer, content creator and consultant
-            based in Hamburg, Germany. On this site you can find some projects I
-            am involved in. If you want to get in touch with me just check out
-            my
-            <a href="https://www.linkedin.com/in/marco-schneekluth-03446313b/"
+            I am a developer, content creator and consultant based in Hamburg,
+            Germany. On this site you can find some projects I am involved in.
+            If you want to get in touch with me just check out my
+            <a href="https://twitter.com/mschneekluth" target="_blank"
+              >Twitter</a
+            >,
+            <a
+              href="https://www.linkedin.com/in/marco-schneekluth-03446313b/"
+              target="_blank"
               >Linkedin</a
             >,
-            <a href="https://www.xing.com/profile/Marco_Schneekluth">Xing</a>
+            <a
+              href="https://www.xing.com/profile/Marco_Schneekluth"
+              target="_blank"
+              >Xing</a
+            >
             profile or send me an
             <a href="mailto:mail@marcoschneekluth.de">email</a>.
           </p>
@@ -58,12 +66,24 @@
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
             <div>
+              <a href="https://cryptodca.io" target="_blank">CryptoDCA.io</a>
+            </div>
+            <div class="text-lg text-gray-600">
+              Comparison platform for different
+              <strong>Crypto Saving Plan</strong> providers. Help users to make
+              better decisions about why, how and where to buy cryptocurrencies
+              recurrently with a <strong>DCA (Dollar Cost Averaging)</strong>.
+            </div>
+          </li>
+          <li class="checkmark">
+            <div>
               <a href="https://kryptokenner.de" target="_blank"
                 >Kryptokenner.de</a
               >
             </div>
             <div class="text-lg text-gray-600">
-              A blog/website about usage and investing in cryptocurrency.
+              A blog/website about usage and investing in
+              <strong>cryptocurrency</strong>.
             </div>
           </li>
           <li class="checkmark">
@@ -84,14 +104,14 @@
               >
             </div>
             <div class="text-lg text-gray-600">
-              An info page for home office products Under development
+              An info page for home office products. Under development.
             </div>
           </li>
           <li class="checkmark">
             <div><a href="https://pupusa.de" target="_blank">Pupusa.de</a></div>
             <div class="text-lg text-gray-600">
               A site to promote the pupusa, the traditional dish of El Salvador.
-              Under development
+              Under development.
             </div>
           </li>
         </ul>
@@ -122,8 +142,9 @@
             #Javascript #VueJS #HTML #CSS #SCSS #PHP #PYTHON #SQL
           </p>
           <p class="py-2">
-            #WebAnalytics #OnlineMarketing #GoogleTagManager #GoogleAnalytics #GoogleBigQuery #SEO #Adwords
-          </p> 
+            #WebAnalytics #OnlineMarketing #GoogleTagManager #GoogleAnalytics
+            #GoogleBigQuery #SEO #Adwords
+          </p>
           <p class="py-2">
             Wordpress Web-Entwicklung, #Bitcoin, #Ethereum, #Blockchain
           </p>
